@@ -14,6 +14,7 @@ It performs wrong operation 10% of the times
 
 */
 
+
 let random = Math.random()
 console.log(random)
 let a = prompt("Enter first number")
